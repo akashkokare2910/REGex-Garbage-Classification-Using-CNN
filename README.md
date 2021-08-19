@@ -1,1 +1,1 @@
-# akashkokare2910-REGex-Garbage-Classification-Using-CNN
+# REGex-Garbage-Classification-Using-CNN
